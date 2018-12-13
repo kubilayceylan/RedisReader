@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{89C9458E-049E-449E-A3CA-0A3365AC8A0A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RedisReader/Dockerfile">
+    <Files>
+      <File FileName="RedisReader/Dockerfile" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RedisReader FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

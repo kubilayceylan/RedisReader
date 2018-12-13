@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<h2>Redis Reader Demo</h2>
+<div class="form-group">
+    <label for="inputkey">Key</label>
+    <input class="form-control" id="key" aria-describedby="Key" placeholder="Key">
+</div>
+<div>
+    <div>
+        <button type="submit" id="button_1" class="btn btn-primary" onclick="my_function();">Get</button>
+    </div>
+</div>
+<div class="form-group">
+    <label for="inputkey">Result</label>
+    <input class="form-control" id="result" aria-describedby="Key" placeholder="Key">
+</div>
+<script>var my_function = function(){
+
+            $.ajax({
+            url: '/Home/',
+            type: "POST",
+            data: JSON.stringify($("#key").val()),
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+        success: function (data) {
+            console.log(data);
+            $("#result").val(data);
+        },
+
+        failure: function (data) {
+           console.log("failure");
+        },
+        error: function (data) {
+            console.log(data);
+        }
+        });
+    };</script>

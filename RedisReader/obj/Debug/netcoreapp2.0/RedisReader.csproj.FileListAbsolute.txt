@@ -1,0 +1,10 @@
+/Users/kubilay/Projects/RedisReader/RedisReader/bin/Debug/netcoreapp2.0/RedisReader.deps.json
+/Users/kubilay/Projects/RedisReader/RedisReader/bin/Debug/netcoreapp2.0/RedisReader.runtimeconfig.json
+/Users/kubilay/Projects/RedisReader/RedisReader/bin/Debug/netcoreapp2.0/RedisReader.runtimeconfig.dev.json
+/Users/kubilay/Projects/RedisReader/RedisReader/bin/Debug/netcoreapp2.0/RedisReader.dll
+/Users/kubilay/Projects/RedisReader/RedisReader/bin/Debug/netcoreapp2.0/RedisReader.pdb
+/Users/kubilay/Projects/RedisReader/RedisReader/obj/Debug/netcoreapp2.0/RedisReader.csproj.CoreCompileInputs.cache
+/Users/kubilay/Projects/RedisReader/RedisReader/obj/Debug/netcoreapp2.0/RedisReader.AssemblyInfoInputs.cache
+/Users/kubilay/Projects/RedisReader/RedisReader/obj/Debug/netcoreapp2.0/RedisReader.AssemblyInfo.cs
+/Users/kubilay/Projects/RedisReader/RedisReader/obj/Debug/netcoreapp2.0/RedisReader.dll
+/Users/kubilay/Projects/RedisReader/RedisReader/obj/Debug/netcoreapp2.0/RedisReader.pdb
